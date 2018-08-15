@@ -1,5 +1,5 @@
 # Stats131Project
-# Yelp Review Sentiment Analysis
+# Yelp Review Sentiment Analysis Assignment
 
 ## By Matthew King & Daniel Halteh
 
@@ -8,5 +8,3 @@ Data: The data analyzed is a collection of Yelp reviews that have a 'Sentiment' 
 Source: The data was found on University of California, Irvine's Machine Learning Repository.
 
 Link: "https://archive.ics.uci.edu/ml/datasets/Sentiment+Labelled+Sentences"
-
-Presentation Slides: https://docs.google.com/presentation/d/1V9tGsZHreHeLbKOoQZnRuykxKEdL6Z6SWQIiB0VOsdU/edit?usp=sharing
